@@ -11,8 +11,8 @@ github_username: "NeallS"
 linkedin_username: "neall-struwig" # Replace with your LinkedIn profile ID
 
 # Build settings
-# theme: jekyll-theme-minimal
-remote_theme: mmistakes/minimal-mistakes
+theme: jekyll-theme-minimal
+# remote_theme: mmistakes/minimal-mistakes
 plugins:
   - jekyll-feed
   - jekyll-seo-tag  # Improves search engine visibility
