@@ -1,23 +1,18 @@
-# Site settings
-title: "Neall Struwig | Data & Research Specialist"
-email: "neallstruwig@gmail.com"
+title: Neall Struwig
+email: neallstruwig@gmail.com
 description: >-
   Portfolio of Neall Struwig, a data specialist with experience in 
   research, analytics, and technology-driven solutions in healthcare 
   and beyond. Showcasing projects, skills, and professional insights.
-baseurl: "" 
-url: "https://NeallS.github.io"
-github_username: "NeallS"
-linkedin_username: "neall-struwig" # Replace with your LinkedIn profile ID
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://NeallS.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+github_username:  "NeallS"
+linkedin_username: "neall-struwig"
 
 # Build settings
 theme: minima
-# remote_theme: mmistakes/minimal-mistakes
 plugins:
   - jekyll-feed
-  - jekyll-seo-tag  # Improves search engine visibility
-  - jekyll-sitemap  # Generates a sitemap.xml for SEO
-  - jekyll-archives # Organizes past blog posts (if applicable)
 
 # Navigation links (use this for easy linking in layouts)
 navbar:
@@ -36,13 +31,4 @@ navbar:
 social:
   email: "neallstruwig@gmail.com"
   github: "https://github.com/NeallS"
-  linkedin: "https://www.linkedin.com/in/neallstruwig/"
-
-# Exclusions
-exclude:
-  - .sass-cache/
-  - .jekyll-cache/
-  - Gemfile
-  - Gemfile.lock
-  - node_modules/
-  - vendor/
+  linkedin: "https://www.linkedin.com/in/neall-struwig/"
