@@ -1,4 +1,4 @@
-title: "Neall Struwig | Data & Research Specialist"
+moetitle: "Neall Struwig | Data & Research Specialist"
 email: "neallstruwig@gmail.com"
 description: >-
   Portfolio of Neall Struwig, a data specialist in research, analytics, and 
@@ -10,7 +10,7 @@ github_username: "NeallS"
 linkedin_username: "neallstruwig"
 
 # Theme & Plugins
-theme: jekyll-theme-primer
+remote_theme: mmistakes/minimal-mistakes
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
