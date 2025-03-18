@@ -19,5 +19,5 @@ Applying **machine learning** to real-world problems
 - **[Research Recruitment Dashboard](./projects/recruitment-dashboard)**  
   Developed a Tableau dashboard integrating REDCap and MS Access data, helping leadership make data-driven decisions.
 
-- Check out my full list of **[projects](./projects).**  
-- Looking to connect? **[Contact me](./contact)** or visit my **[LinkedIn](https://www.linkedin.com/in/neallstruwig/)**
+Check out my full list of **[projects](./projects).**  
+Looking to connect? **[Contact me](./contact)** or visit my **[LinkedIn](https://www.linkedin.com/in/neallstruwig/)**
