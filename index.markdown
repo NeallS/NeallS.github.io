@@ -3,7 +3,7 @@ layout: home
 title: "Neall Struwig | Data & Research Specialist"
 ---
 
-## Welcome to My Portfolio 👋
+## Welcome to My Portfolio
 
 I am a **Data & Research Specialist** with expertise in data engineering, analytics, and healthcare technology. I have extensive experience in:
 
