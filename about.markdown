@@ -1,18 +1,23 @@
 ---
 layout: page
-title: About
+title: About Me
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+## About Me
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+I'm **Neall Struwig**, a **data specialist** passionate about **data engineering, research analytics, and technology-driven solutions in healthcare**. I currently work at CAMH, where I design and manage research databases, automate workflows, and develop dashboards to support decision-making.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+### My Background:
+🎓 **Biomedical Engineering (M.Eng.) & Biophysics (B.Sc.)**  
+🏥 **Experience in clinical research & healthcare data**  
+💡 **Skilled in Python, SQL, Tableau, and data pipelines**  
 
+I enjoy tackling complex **data challenges**, optimizing workflows, and using **machine learning** to derive insights.
 
-[jekyll-organization]: https://github.com/jekyll
+---
+
+### 🏃‍♂️ Beyond Work:
+Outside of work, I am an **avid runner** and **fitness enthusiast**. I'm training for **Hyrox and a marathon**, and I enjoy blending my passion for **sports, data, and problem-solving**.
+
+🚀 **Explore my work:** [Projects](./projects) | [Resume](./resume) | [Contact](./contact)
