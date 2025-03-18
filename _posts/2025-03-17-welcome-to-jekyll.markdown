@@ -1,29 +1,15 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
-date:   2025-03-17 14:12:39 -0400
-categories: jekyll update
+title: "Automated REDCap Data Pipeline"
+date: 2025-03-18
+categories: project
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
-Jekyll requires blog post files to be named according to the following format:
+### 🔹 Project Overview
+I built a **generalized data pipeline** that automates **data transfers between REDCap projects**, improving efficiency and reducing human error.
 
-`YEAR-MONTH-DAY-title.MARKUP`
-
-Where `YEAR` is a four-digit number, `MONTH` and `DAY` are both two-digit numbers, and `MARKUP` is the file extension representing the format used in the file. After that, include the necessary front matter. Take a look at the source for this post to get an idea about how it works.
-
-Jekyll also offers powerful support for code snippets:
-
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
-
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
-
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+### 🔹 Features:
+- **GUI Interface** for researchers to select datasets
+- **Python API Integration** for data retrieval and transformation 
+- **Increased Accuracy & Efficiency** by 99.7% and 96.4% respectively
+📌 **Check out the code:** [GitHub Repository](https://github.com/NeallS/redcap-pipeline)
