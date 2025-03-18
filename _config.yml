@@ -7,7 +7,7 @@ description: >-
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://NeallS.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  "NeallS"
-linkedin_username: "neall-struwig"
+linkedin_username: "Neall Struwig"
 
 # Build settings
 theme: minima
@@ -31,4 +31,4 @@ navbar:
 social:
   email: "neallstruwig@gmail.com"
   github: "https://github.com/NeallS"
-  linkedin: "https://www.linkedin.com/in/neall-struwig/"
+  linkedin: "https://www.linkedin.com/in/neallstruwig/"
