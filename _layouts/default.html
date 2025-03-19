@@ -8,17 +8,20 @@
 </head>
 <body>
     <header>
-        <nav>
-            <ul>
-                <li><a href="{{ site.baseurl }}/">Home</a></li>
-                <li><a href="{{ site.baseurl }}/projects">Projects</a></li>
-                <li><a href="{{ site.baseurl }}/resume">Resume</a></li>
-                <li><a href="{{ site.baseurl }}/about">About</a></li>
-                <li><a href="{{ site.baseurl }}/contact">Contact</a></li>
-            </ul>
+        <nav class="navbar">
+            <div class="nav-container">
+                <a href="{{ site.baseurl }}/" class="logo">Neall Struwig</a>
+                <ul class="nav-links">
+                    <li><a href="{{ site.baseurl }}/">Home</a></li>
+                    <li><a href="{{ site.baseurl }}/projects">Projects</a></li>
+                    <li><a href="{{ site.baseurl }}/resume">Resume</a></li>
+                    <li><a href="{{ site.baseurl }}/about">About</a></li>
+                    <li><a href="{{ site.baseurl }}/contact">Contact</a></li>
+                </ul>
+            </div>
         </nav>
     </header>
-    
+
     <main>
         {{ content }}
     </main>
