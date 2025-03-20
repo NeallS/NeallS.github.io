@@ -4,7 +4,7 @@ title: Projects
 permalink: /projects/
 ---
 
-## Featured Projects 🚀
+## Featured Projects
 
 ### 🔹 [Automated REDCap Data Pipeline](./projects/redcap-pipeline)
 Automated **data transfers between REDCap projects**, improving efficiency and accuracy.
