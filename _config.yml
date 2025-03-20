@@ -21,22 +21,15 @@ minimal_mistakes_skin: "default"
 layout: single
 author_profile: true
 
+# Remove Top Navigation Bar
+header:
+  nav: false  # This removes the horizontal navigation bar
+
 # Sidebar Configuration
 sidebar:
-  nav: "main"  # This tells Minimal Mistakes to use the sidebar navigation
-
-# Navigation (Left Sidebar)
-navigation:
-  - title: "Home"
-    url: "/"
-  - title: "Projects"
-    url: "/projects/"
-  - title: "Resume"
-    url: "/resume/"
-  - title: "About"
-    url: "/about/"
-  - title: "Contact"
-    url: "/contact/"
+  nav: "main"  # Uses the navigation defined in _data/navigation.yml
+  sticky: true  # Keeps the sidebar visible when scrolling
+  collapse: true  # Makes the sidebar collapsible
 
 # Social Links
 social:
