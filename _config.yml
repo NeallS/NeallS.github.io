@@ -1,16 +1,18 @@
 title: "Neall Struwig | Data & Research Specialist"
 email: "neallstruwig@gmail.com"
 description: >-
-  Portfolio of Neall Struwig, a data specialist in research, analytics, and 
+  Portfolio of Neall Struwig, a data specialist in research, analytics, and
   healthcare technology. Showcasing projects, skills, and insights.
-baseurl: "" 
+baseurl: ""
 url: "https://NeallS.github.io"
 twitter_username: ""
 github_username: "NeallS"
 linkedin_username: "neallstruwig"
 
-# Theme & Plugins
+# Theme
 theme: jekyll-theme-cayman
+
+# Plugins
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
@@ -21,13 +23,13 @@ navbar:
   - title: "Home"
     url: "/"
   - title: "Projects"
-    url: "/projects"
+    url: "/projects/"
   - title: "Resume"
-    url: "/resume"
+    url: "/resume/"
   - title: "About"
-    url: "/about"
+    url: "/about/"
   - title: "Contact"
-    url: "/contact"
+    url: "/contact/"
 
 # Social Links
 social:
