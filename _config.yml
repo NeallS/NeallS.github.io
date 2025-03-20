@@ -18,7 +18,7 @@ plugins:
 
 # Sidebar (Left Navigation Bar)
 sidebar:
-  - image: "/assets/profile.jpg"  # Add a profile picture in assets/
+  - image: "/assets/profile.jpeg"  # Add a profile picture in assets/
   - title: "Neall Struwig"
   - text: "Data Scientist | Research Specialist"
   - url: "/about/"
