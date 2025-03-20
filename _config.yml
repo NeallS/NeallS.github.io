@@ -1,47 +1,37 @@
 title: "Neall Struwig | Data & Research Specialist"
 email: "neallstruwig@gmail.com"
 description: >-
-  Portfolio of Neall Struwig, a data specialist in research, analytics, and
+  Portfolio of Neall Struwig, a data specialist in research, analytics, and 
   healthcare technology. Showcasing projects, skills, and insights.
-baseurl: ""
+baseurl: "" 
 url: "https://NeallS.github.io"
-twitter_username: ""
-github_username: "NeallS"
-linkedin_username: "neallstruwig"
 
 # Theme
-theme: jekyll-theme-cayman
+remote_theme: "mmistakes/minimal-mistakes"
 
 # Plugins
 plugins:
+  - jekyll-include-cache
   - jekyll-feed
   - jekyll-seo-tag
   - jekyll-sitemap
 
-# Navigation Bar
-navbar:
-  - title: "Home"
-    url: "/"
-  - title: "Projects"
-    url: "/projects/"
-  - title: "Resume"
-    url: "/resume/"
-  - title: "About"
-    url: "/about/"
-  - title: "Contact"
-    url: "/contact/"
+# Sidebar (Left Navigation Bar)
+sidebar:
+  - image: "/assets/profile.jpg"  # Add a profile picture in assets/
+  - title: "Neall Struwig"
+  - text: "Data Scientist | Research Specialist"
+  - url: "/about/"
+  - entries:
+      - title: "Projects"
+        url: "/projects/"
+      - title: "Resume"
+        url: "/resume/"
+      - title: "Contact"
+        url: "/contact/"
 
 # Social Links
 social:
   email: "neallstruwig@gmail.com"
   github: "https://github.com/NeallS"
   linkedin: "https://www.linkedin.com/in/neallstruwig/"
-
-# Exclusions
-exclude:
-  - .sass-cache/
-  - .jekyll-cache/
-  - Gemfile
-  - Gemfile.lock
-  - node_modules/
-  - vendor/
