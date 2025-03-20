@@ -16,19 +16,27 @@ plugins:
   - jekyll-seo-tag
   - jekyll-sitemap
 
-# Sidebar (Left Navigation Bar)
+# Enable Sidebar Layout
+minimal_mistakes_skin: "default"
+layout: single
+author_profile: true
+
+# Sidebar Configuration
 sidebar:
-  - image: "/assets/profile.jpeg"  # Add a profile picture in assets/
-  - title: "Neall Struwig"
-  - text: "Data Scientist | Research Specialist"
-  - url: "/about/"
-  - entries:
-      - title: "Projects"
-        url: "/projects/"
-      - title: "Resume"
-        url: "/resume/"
-      - title: "Contact"
-        url: "/contact/"
+  nav: "main"  # This tells Minimal Mistakes to use the sidebar navigation
+
+# Navigation (Left Sidebar)
+navigation:
+  - title: "Home"
+    url: "/"
+  - title: "Projects"
+    url: "/projects/"
+  - title: "Resume"
+    url: "/resume/"
+  - title: "About"
+    url: "/about/"
+  - title: "Contact"
+    url: "/contact/"
 
 # Social Links
 social:
