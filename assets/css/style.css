@@ -1,15 +1,6 @@
-/* General Styles */
-body {
-    font-family: Arial, sans-serif;
-    margin: 0;
-    padding: 0;
-    background-color: #f5f5f5;
-    color: #333;
-}
-
 /* Navbar Styles */
 .navbar {
-    background: #222;
+    background: #004466;
     padding: 10px 20px;
     position: fixed;
     top: 0;
@@ -66,7 +57,7 @@ main {
 footer {
     text-align: center;
     padding: 20px;
-    background: #222;
+    background: #004466;
     color: #fff;
     position: relative;
     bottom: 0;
