@@ -1,8 +1,10 @@
 ---
 layout: home
-author_profile: true
-permalink: /
 title: "Welcome to My Portfolio"
+permalink: /
+author_profile: true
+sidebar:
+  nav: "main"
 header:
   overlay_color: "#000"
   overlay_filter: "0.3"
@@ -12,9 +14,16 @@ header:
       url: "/projects/"
 ---
 
-## About Me
-I'm a **data specialist** passionate about building **data pipelines, research dashboards, and machine learning solutions**.
+## 👋 Welcome!
+I'm a **Data Specialist & Research Engineer** passionate about **data pipelines, research analytics, and AI-driven solutions.**
 
-## Featured Projects 🚀
-- **[Automated REDCap Data Pipeline](./projects/redcap-pipeline)**
-- **[Research Recruitment Dashboard](./projects/recruitment-dashboard)**
+---
+
+## 🚀 Featured Projects
+### 📌 [Automated REDCap Data Pipeline](./projects/redcap-pipeline)
+**Designed a pipeline** for automated **data transfers between REDCap projects**, increasing efficiency and accuracy.
+
+### 📊 [Research Recruitment Dashboard](./projects/recruitment-dashboard)
+Developed a **Tableau dashboard** integrating **clinical and research data** to improve decision-making.
+
+📌 **[See More Projects](./projects/)**
