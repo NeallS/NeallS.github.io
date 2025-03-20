@@ -1,10 +1,13 @@
 ---
-layout: page
-title: Resume
+layout: single
+title: "Resume"
 permalink: /resume/
+author_profile: true
+sidebar:
+  nav: "main"
 ---
 
-## My Resume 📄
+## 📄 My Resume
 
-📌 **[Download My Resume (PDF)](resume.pdf)**  
+📌 **[Download Resume (PDF)](resume.pdf)**  
 🚀 **[View LinkedIn Profile](https://www.linkedin.com/in/neallstruwig/)**
