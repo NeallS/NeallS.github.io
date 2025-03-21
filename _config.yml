@@ -16,20 +16,26 @@ plugins:
   - jekyll-seo-tag
   - jekyll-sitemap
 
-# Enable Sidebar Layout
-minimal_mistakes_skin: "default"
-layout: single
-author_profile: true
-
-# Remove Top Navigation Bar
+# Enable Default Navigation Bar (Remove Sidebar)
 header:
-  nav: false  # This removes the horizontal navigation bar
+  nav: true  # Keep only the top navigation bar
 
-# Sidebar Configuration
+# Remove Sidebar
 sidebar:
-  nav: "main"  # Uses the navigation defined in _data/navigation.yml
-  sticky: true  # Keeps the sidebar visible when scrolling
-  collapse: true  # Makes the sidebar collapsible
+  nav: ""  # Disables the left sidebar
+
+# Navigation Menu
+navigation:
+  - title: "Home"
+    url: "/"
+  - title: "Projects"
+    url: "/projects/"
+  - title: "Resume"
+    url: "/resume/"
+  - title: "About"
+    url: "/about/"
+  - title: "Contact"
+    url: "/contact/"
 
 # Social Links
 social:
