@@ -7,12 +7,12 @@ sidebar:
   nav: "main"
 ---
 
-## 🚀 Featured Projects
+## Projects
 
-### 📌 [Automated REDCap Data Pipeline](./projects/redcap-pipeline)
-Built an API-driven **pipeline** to transfer and process **research data** automatically.
+### [Automated REDCap Data Pipeline](./projects/redcap-pipeline)
+Built an API-driven pipeline to transfer and process research data automatically.
 
-### 📊 [Research Recruitment Dashboard](./projects/recruitment-dashboard)
-A **Tableau dashboard** that integrates recruitment and clinical data.
+### [Research Recruitment Dashboard](./projects/recruitment-dashboard)
+A Tableau dashboard that integrates recruitment and clinical data.
 
-📌 **More projects coming soon!**
+**More projects coming soon!**
