@@ -3,8 +3,6 @@ layout: home
 title: "Welcome to My Portfolio"
 permalink: /
 author_profile: true
-sidebar:
-  nav: "main"
 header:
   overlay_color: "#000"
   overlay_filter: "0.3"
@@ -13,6 +11,8 @@ header:
     - label: "View My Projects"
       url: "/projects/"
 ---
+
+<img src="/assets/profile.jpg" alt="Profile Picture" style="width: 200px; border-radius: 50%; display: block; margin: 0 auto;">
 
 ## Welcome!
 I'm a **Data Specialist & Research Engineer** passionate about data pipelines, research analytics, and AI-driven solutions.
