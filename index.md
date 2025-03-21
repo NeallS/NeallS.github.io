@@ -14,16 +14,16 @@ header:
       url: "/projects/"
 ---
 
-## 👋 Welcome!
-I'm a **Data Specialist & Research Engineer** passionate about **data pipelines, research analytics, and AI-driven solutions.**
+## Welcome!
+I'm a **Data Specialist & Research Engineer** passionate about data pipelines, research analytics, and AI-driven solutions.
 
 ---
 
-## 🚀 Featured Projects
-### 📌 [Automated REDCap Data Pipeline](./projects/redcap-pipeline)
-**Designed a pipeline** for automated **data transfers between REDCap projects**, increasing efficiency and accuracy.
+## Featured Projects
+### [Automated REDCap Data Pipeline](./projects/redcap-pipeline)
+Designed a pipeline for automated data transfers between REDCap projects, increasing efficiency and accuracy.
 
-### 📊 [Research Recruitment Dashboard](./projects/recruitment-dashboard)
-Developed a **Tableau dashboard** integrating **clinical and research data** to improve decision-making.
+### [Research Recruitment Dashboard](./projects/recruitment-dashboard)
+Developed a Tableau dashboard integrating clinical and research data to improve decision-making.
 
-📌 **[See More Projects](./projects/)**
+**[See More Projects](./projects/)**
