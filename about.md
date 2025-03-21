@@ -16,7 +16,7 @@ I'm **Neall Struwig**, a **data specialist** passionate about data engineering, 
  - **Experience in clinical research & healthcare data**  
  - **Skilled in Python, SQL, Tableau, and data pipelines**  
 
-I enjoy tackling complex data challenges, optimizing workflows, and using machine learning** to derive insights.
+I enjoy tackling complex data challenges, optimizing workflows, and using machine learning to derive insights.
 
 ---
 
