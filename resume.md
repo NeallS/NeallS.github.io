@@ -7,7 +7,7 @@ sidebar:
   nav: "main"
 ---
 
-## 📄 My Resume
+## My Resume
 
-📌 **[Download Resume (PDF)](resume.pdf)**  
-🚀 **[View LinkedIn Profile](https://www.linkedin.com/in/neallstruwig/)**
+**[Download Resume (PDF)](resume.pdf)**  
+**[View LinkedIn Profile](https://www.linkedin.com/in/neallstruwig/)**
